@@ -12,7 +12,7 @@ pip install discord.py; sudo apt update && sudo apt install ffmpeg
 
 ## Installation
 ```sh
-pip install discord.py; sudo apt update && sudo apt install ffmpeg
+git clone https://github.com/samueluy/mimiyuuuH2O
 ```
 
 ## Usage
